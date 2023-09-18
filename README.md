@@ -1,7 +1,7 @@
 # Customer-Churn-EDA
 Exploratory Data Analysis on Telco _Churn Dataset
 # Questions Explored
- 1.Investigate the relationship between contract and churn
+      1.Investigate the relationship between contract and churn
  2.Analyze the relationship between gender and churn
  3.Investigating the relationship between Total Charges and churn
  4.Identifying the relationship between tenure and churn
